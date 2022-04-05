@@ -1,0 +1,26 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+    
+}
+
+body {
+    background-color: lightblue;
+  }
+
+p {
+    font-size: large;
+    text-align:center;
+}
+
+p {
+    font-size: large;
+    text-align:center;
+}
+
+H {
+    font-size: large;
+    text-align:center;
+}
